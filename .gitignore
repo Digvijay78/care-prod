@@ -1,0 +1,64 @@
+# Node.js
+node_modules/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Vite
+.vite/
+*.local
+.env
+.env.*
+*.log
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Temporary files
+*.swp
+*.tmp
+*.temp
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.tgz
+
+# Coverage
+coverage/
+*.lcov
+
+# Build directories
+build/
+out/
+
+# Dependency directories
+jspm_packages/
+web_modules/
+
+# Misc
+*.bak
+*.orig
+*.patch
+
+# GitHub
+*.github/
